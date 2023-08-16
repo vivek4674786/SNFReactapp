@@ -1,3 +1,8 @@
+# Team SNFR
+1. Vivek Kandoliya
+2. Darshan Kalathiya
+3. Dhruvkumar Sanghani
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
