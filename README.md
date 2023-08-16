@@ -1,2 +1,3 @@
-# SNFReactapp
-This is Frontend of SNF Rajkot app.
+
+# Note: Project is in master Branch
+
