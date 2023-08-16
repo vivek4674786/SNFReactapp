@@ -3,6 +3,8 @@
 2. Darshan Kalathiya
 3. Dhruvkumar Sanghani
 
+# Note: Project is in Master Branch
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
